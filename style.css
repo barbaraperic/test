@@ -1,1 +1,90 @@
 /* TODO: design your profile with CSS */
+
+
+
+h1, h2 {
+  font-family: 'Montserrat', sans-serif; 
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: green;
+}
+
+.btn {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  background-color: lightgreen;
+  padding: 16px 24px;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  color: darkcyan;
+}
+
+img {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.card-white {
+  padding: 24px;
+  text-align: center;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0, 0.1);
+  width: 700px;
+  margin: 24px auto;
+}
+
+.fotter {
+  background-color: lightgrey;
+  padding: 24px;
+  text-align: center;
+}
+
+.list-inline {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 5px;
+}
+
+.social-icon {
+  background-color: rgba(0,0,0, 0.1);
+  padding: 16px;
+  border-radius: 4px;
+}
+
+.social-icon:hover {
+  background-color: black;
+}
+
+
+/* h1, h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+p, a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #1e9a4a;
+}
+
+div {
+  
+} */
